@@ -45,12 +45,3 @@ struct ContentView: View {
     }
 }
 
-// Declaración de la estructura ContentView_Previews
-
-
-/*let posts = [
- Post(id: "1", title: "Hello"),
- Post(id: "2", title: "Gonzalo"),
- Post(id: "3", title: "trujillo")
- ]*/
-   
