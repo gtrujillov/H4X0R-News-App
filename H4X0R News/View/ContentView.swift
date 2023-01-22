@@ -45,3 +45,10 @@ struct ContentView: View {
     }
 }
 
+
+// creamos una estructura para poder visualizar una vista previa de nuestra vista de detalle
+struct ContentView_Previews: PreviewProvider {
+    static var previews: some View {
+        ContentView()
+    }
+}
