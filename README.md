@@ -1,3 +1,5 @@
+![Banner de LinkedIn Profesor Adjunto Pincelada Verde y Crema](https://user-images.githubusercontent.com/28809990/215296327-95791e3a-d78e-43ea-8727-b75954ea55b4.png)
+
 # H4X0R-News-App
 
 An App to read tech news
